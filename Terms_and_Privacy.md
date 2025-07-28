@@ -1,4 +1,5 @@
 The main function of this app is prepare backup list for photos album from iDevice.
+All data transfers occur exclusively between your mobile device and your target computer.
 
 【Privacy Policy】
 
