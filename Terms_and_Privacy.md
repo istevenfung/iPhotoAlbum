@@ -1,4 +1,4 @@
-The main function of this app is to backup photos and videos from iDevice to Mac and keep the photo album
+The main function of this app is prepare backup list for photos album from iDevice.
 
 【Privacy Policy】
 
