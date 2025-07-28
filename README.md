@@ -1,1 +1,1 @@
-# iPhotoAlbum <img src="ARML64.png">
+# iPhotoAlbum <img src="ICON64.png">
