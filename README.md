@@ -1,6 +1,6 @@
 # iPhotoAlbum <img src="ICON64.png">
 <h3>
-  This app make album photo lists for prepare backup album.
+  This app is let you making album photo lists for prepare backup album.
   <hr>
   <p>Prepare Backup Structure</p>
   By Monthly：
