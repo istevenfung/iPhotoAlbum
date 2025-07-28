@@ -16,6 +16,7 @@
   <li>Make List (Swipe Left)</li>
   <li>Upload List (AirTrop to Mac)</li>
   </ol>
+  You need to use "iPhotoBackup" on Mac to complete the backup.
 </h3>
 <p>《Enquiries and Support》</p>
 Email：<a href="mailto:stevenfuture@icloud.com">stevenfuture@icloud.com</a>
